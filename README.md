@@ -53,10 +53,37 @@ The tables are connected using SQL joins to perform business analysis.
 
  ## Interactive Dashboard
 
- * Employee Count By Department
- * Average Salary By Department
- * Total Salary By Department
- * Employee Count By Job
+ ![Employee Dashboard](Dashboard.png)
+ 
+
+ ## Employee Count By Department
+
+   
+ ![Chart1](Chart1.png)
+
+ 
+ ## Average Salary By Department
+
+
+  ![Chart2](Chart2.png)
+
+
+  
+ ## Total Salary By Department
+
+
+
+  ![Chart4](Chart4.png)
+
+  
+ ## Employee Count By Job
+
+
+
+
+ ![Chart3](Chart3.png)
+
+ 
 
 Interactive Filters
 
